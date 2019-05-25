@@ -32,7 +32,7 @@ kpBank = 12.6   # 15, 12.6 pass
 kpYaw = 2.3    # 0.1,  2.3 pass
 
 # Angle rate gains
-kpPQR = 65, 65, 5
+kpPQR = 65.5, 65.5, 5
       # 60, 60, 6 pass
       # 49, 50, 0.7
       # 59, 60, 0.29
