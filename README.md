@@ -18,7 +18,7 @@ intend them to!\
 This project had a special type of challenge for me. I had to once again put aside my desire for perfection 
 in order to be completed in time to move onto the next challenge. The mathematical theory of PID controllers, 
 along with the witchcraftery required to tune the controller gains is definitely highly fascinating and 
-overwhelming. I will definitely be studying this interesting field of control for robotics in more depth 
+overwhelming. I will definitely be studying this interesting field of control for robotics to greater depths 
 in the nearest future. Until then, my passing submission awaits your approval.
 \
 woodrow\
