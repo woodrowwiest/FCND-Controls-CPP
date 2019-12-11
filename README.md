@@ -6,20 +6,17 @@ wwiest .at. gmail.com - [GitHub](https://github.com/woodrowwiest)
 \
 \
 \
-Oh Great Project Reviewer,\
+To the Project Reviewer,\
 \
-Thank you for taking the time to review my barebones-as-possible version of the Controls project for 
-Udacity Flying Car Nanodegree. All scenarios are passing when simulated, but exact tweaking may still 
-be interesting depending on one's desires for various flight characteristics. This project is 
-barebones-as-possible simply due to timing for project submission. I have full intentions of revisiting 
-every point and creating a smooth and beautiful flight controller as my skills improve, and lo how I 
-intend them to!\
+Thank you for taking the time to review my barebones version of the Controls project for 
+Udacity Flying Car Nanodegree. All scenarios are passing under simulation. More tweaking is still interesting 
+depending on one's desires for various flight characteristics.\
 \
 This project had a special type of challenge for me. I had to once again put aside my desire for perfection 
 in order to be completed in time to move onto the next challenge. The mathematical theory of PID controllers, 
-along with the witchcraftery required to tune the controller gains is definitely highly fascinating and 
-overwhelming. I will definitely be studying this interesting field of control for robotics to greater depths 
-in the nearest future. Until then, my passing submission awaits your approval.
+along with the witchcraftery required to tune the controller gains, is definitely highly fascinating. I will 
+definitely be studying this interesting field of control for robotics to greater depths 
+in the near future. Until then, my passing submission is structured below.
 \
 woodrow\
 \
